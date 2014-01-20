@@ -7,3 +7,6 @@ learn_git
   (e.g. add a paragraph with some content: `<p>new content</p>`)
 * commit changes
 * push changes
+
+* test
+* ...
